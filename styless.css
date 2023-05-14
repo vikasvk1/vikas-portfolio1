@@ -32,7 +32,7 @@ section{
     top: 0;
     left: 0;
     width: 100%;
-    padding: 2rem 9%;
+    padding: 2rem 11%;
     background: var(--bg-color);
     display: flex;
     justify-content: space-between;
