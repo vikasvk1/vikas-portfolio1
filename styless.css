@@ -359,6 +359,9 @@ span{
     }
 }
 @media(max-width: 450px){
+    .header{
+        padding: 2rem 5%;
+    }
     html{
         font-size: 50%;
     }
