@@ -374,6 +374,9 @@ span{
 
 }
 @media(max-width: 365px){
+    .header{
+        padding: 2rem 5%;
+    }
     .home-img img{
         width: 30vh;
     }
@@ -396,6 +399,9 @@ span{
     }
 }
 @media(max-width: 350px){
+    .header{
+        padding: 2rem 5%;
+    }
     .home-img img{
         width: 30vh;
     }
@@ -418,6 +424,9 @@ span{
     }
 }
 @media(max-width: 300px){
+    .header{
+        padding: 2rem 5%;
+    }
     .home-img img{
         width: 30vh;
     }
